@@ -1,5 +1,5 @@
 # 🏃‍♀️ FitTrack – Fitness Aktivite Takip Uygulaması
-
+APK Lİnki: https://expo.dev/accounts/esmaes/projects/app/builds/da648b97-3dfd-4be6-8386-c81e82dcc3cb
 FitTrack, React Native ve Expo kullanılarak geliştirilmiş modern bir fitness ve aktivite takip mobil uygulamasıdır.
 
 Bu proje, 2 saatlik mobil uygulama geliştirme challenge kapsamında hazırlanmıştır.
